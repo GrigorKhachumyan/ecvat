@@ -1,12 +1,13 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom"
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Main from './templates/main';
+import Navigation from './navigation';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Main/>
+  <Navigation/>
   </React.StrictMode>,
   document.getElementById('root')
 );

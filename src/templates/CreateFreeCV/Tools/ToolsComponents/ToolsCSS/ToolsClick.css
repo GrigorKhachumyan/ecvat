@@ -1,0 +1,45 @@
+.ToolsClick {
+  width: 95%;
+  text-align: center;
+  margin-top: 0.5vw;
+  /* border-radius: 0.5vw; */
+}
+
+.Input1 {
+  width: 16vw;
+  height: 1.5vw;
+  border-radius: 0.3vw;
+  margin-bottom: 0.4vw;
+  padding: 0;
+}
+
+.Button1 {
+  width: 9vw;
+  height: 1.5vw;
+  font-size: 1vw;
+  /* border-radius: 0.3vw; */
+  margin-bottom: 0.4vw;
+  padding: 0;
+}
+
+.LanguagesBoard {
+  margin-top: 1vw;
+  width: 17vw;
+  font-size: 1vw;
+}
+
+.SkillsBoard {
+  margin-top: 1vw;
+  width: 17vw;
+  font-size: 1vw;
+}
+.ExperianceBoard {
+  margin-top: 1vw;
+  width: 17vw;
+  font-size: 1vw;
+}
+.EducationBoard {
+  margin-top: 1vw;
+  width: 17vw;
+  font-size: 1vw;
+}

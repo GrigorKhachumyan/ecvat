@@ -4,14 +4,14 @@ import "../../css/header.css"
 import HeaderInfo from "./header-info";
 
 
-export default function Header(){
+export default function Header(props){
+
 
     return(
        
      <header>
          <MainTopBar/>
          <HeaderInfo/>
-
      </header>
        
     )

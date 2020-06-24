@@ -1,0 +1,49 @@
+.SliderClick {
+  display: flex;
+  align-items: center;
+  margin-top: 8vw;
+  width: 11vw;
+  height: 31vw;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.ClickedType1 {
+  cursor: pointer;
+  width: 7vw;
+  height: 5vw;
+  background-image: url(./img/FirstResume.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 1vw;
+}
+
+.ClickedType1Clicked {
+  cursor: pointer;
+  width: 9vw;
+  height: 7vw;
+  background-image: url(./img/FirstResume.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 1vw;
+}
+
+.ClickedType2 {
+  cursor: pointer;
+  width: 5vw;
+  height: 6.5vw;
+  background-image: url(./img/SecondResume.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 1vw;
+}
+
+.ClickedType2Clicked {
+  cursor: pointer;
+  width: 6.5vw;
+  height: 8vw;
+  background-image: url(./img/SecondResume.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 1vw;
+}

@@ -48,3 +48,37 @@ footer{
     background-size: cover;
     background-position: center;
 }
+
+@media (max-width:968px){
+    .header-title {
+        font-size: 24px;
+        line-height: normal;
+    }
+    
+    .header-sec-text {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    
+    header {
+        height: 28vh;
+        min-height: 310px;
+    }
+    
+    .main-top-bar {
+        margin-bottom: 9px;
+    }
+    
+    .header-info-left.header-info {
+        width: 100%;
+        min-width: unset;
+    }
+    
+    .header-info-right.header-info {
+        display: none;
+    }
+    
+    .card-item {
+        min-width: 239px;
+    }
+}

@@ -1,0 +1,19 @@
+.SliderDivFirst {
+  margin-top: 3vw;
+  cursor: pointer;
+  width: 12vw;
+  height: 8vw;
+  background-image: url(../SliderClick/img/FirstResume.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.SliderDivSecond {
+  margin-top: 3vw;
+  cursor: pointer;
+  width: 10vw;
+  height: 12vw;
+  background-image: url(../SliderClick/img/SecondResume.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}

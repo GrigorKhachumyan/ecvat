@@ -1,0 +1,13 @@
+.ToolsName {
+  padding-top: 0.3vw;
+  font-weight: 600;
+  width: 95%;
+  height: 2.5vw;
+  font-size: 1.5vw;
+  text-align: center;
+  margin-top: 0.3vw;
+  /* border-radius: 0.5vw; */
+  cursor: pointer;
+  background-color: #f7f7f7;
+  box-shadow: inset 2px -2px 5px 0px rgb(63, 63, 63);
+}

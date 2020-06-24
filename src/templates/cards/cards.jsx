@@ -8,7 +8,7 @@ export default function Cards(props){
         "Insert your personal information to CV template.",
         "Dwnload your CV without registration.",
     ]
-    if(!props.isUser){
+    if(!props.forUser){
         return(
             <>
             <div className="cards-container noreg">
