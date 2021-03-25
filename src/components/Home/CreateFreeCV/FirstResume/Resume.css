@@ -1,0 +1,109 @@
+.Resume {
+ width: 100%;
+  background-image: url(./ResumeComponents/Img-Resume1/Fone.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #dadada;
+  display: flex;
+}
+.test{
+  margin-top: 3vw;
+  margin-right: 1vw;
+  width: 47.2vw;
+}
+
+.ResumeBody1 {
+  margin-top: 3.5vw;
+  margin-bottom: 10.5vw;
+  margin-left: 5.6vw;
+  width: 29.7vw;
+  display: flex;
+}
+
+.ResumeBody2 {
+  margin-top: 3.5vw;
+  margin-bottom: 10.5vw; 
+  margin-left: 5.6vw;
+  width: 29.7vw;
+}
+
+.line{
+  width: 2.5vw ;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #dadada;
+}
+
+.EduDiv {
+  margin-top: 0.5vw;
+  font-weight: 600;
+  /*padding-top: 0.4vw;*/
+  padding-left: 1.5vw;
+  /*height: 1.4vw;*/
+  background-color: #f1f1f3;
+  text-align: left;
+  font-size: 1.2vw;
+}
+
+.EduDiv2 {
+  font-weight: 600;
+  padding-top: 0.4vw;
+  padding-right: 1.5vw;
+  /*height: 1.4vw;*/
+  background-color: #d9d8dd;
+  text-align: right;
+  font-size: 1.2vw;
+}
+
+.ExpDiv {
+  font-weight: 600;
+  padding-top: 0.4vw;
+  padding-left: 1.5vw;
+  /*height: 1.4vw;*/
+  background-color: #f1f1f3;
+  text-align: left;
+  font-size: 1.2vw;
+}
+
+.LangDiv {
+  font-weight: 600;
+  padding-top: 0.4vw;
+  padding-right: 1.5vw;
+  /*height: 1.4vw;*/
+  background-color: #d9d8dd;
+  text-align: right;
+  font-size: 1.2vw;
+}
+
+.SkillsDiv {
+  font-weight: 600;
+  padding-top: 0.4vw;
+  padding-right: 1.5vw;
+  /*height: 1.2vw;*/
+  background-color: #d9d8dd;
+  text-align: right;
+  font-size: 1vw;
+}
+
+.ProfileDiv {
+  font-weight: 600;
+  padding-top: 0.4vw;
+  padding-right: 1.5vw;
+  /*height: 1.2vw;*/
+  background-color: #313036;
+  color: #cdcbd0;
+  text-align: right;
+  font-size: 1vw;
+}
+
+.Outline {
+  height: 0.77vw;
+  background-image: url("./ResumeComponents/Img-Resume1/SecondLine.jpeg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.OutlineBlack {
+  height: 0.8vw;
+  background-color: red;
+}

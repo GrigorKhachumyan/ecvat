@@ -1,0 +1,117 @@
+.NameProfContactSecond {
+  display: flex;
+}
+
+.NameSurnameSecond {
+  width: 29vw;
+  font-size: 2.3vw;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5vw;
+}
+
+.NameSurnameSecond2 {
+  font-size: 2.3vw;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProfessionSecond {
+  display: inline-block;
+  background-color: gray;
+  padding-right: 0.3vw;
+  padding-left: 0.3vw;
+  padding-bottom: 0.1vw;
+  color: aliceblue;
+  margin-top: 0.3vw;
+  margin-bottom: 1.5vw;
+  font-size: 1.5vw;
+  font-weight: 700;
+}
+
+.ContactSecond {
+  margin-left: 2vw;
+  margin-top: 1.5vw;
+  font-size: 0.8vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ExperianceSecond {
+  margin-bottom: 2vw;
+}
+.SkillsSecond {
+  margin-bottom: 1vw;
+  display: flex;
+  flex-flow: wrap;
+}
+.LanguagesSecond {
+  display: inline-block;
+  margin-left: 1vw;
+}
+
+.ObjectiveSecond {
+  margin-left: 1vw;
+  font-size: 0.8vw;
+  margin-right: 1vw;
+}
+
+.IconAdress {
+  width: 3vw;
+  height: 3vw;
+  margin-right: 0.4vw;
+  background-image: url(./IconsSecond/Red-Adress.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.IconMail {
+  width: 3vw;
+  height: 3vw;
+  margin-right: 0.4vw;
+  background-image: url(./IconsSecond/Red-Mail.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.IconPhone {
+  width: 3vw;
+  height: 3vw;
+  margin-right: 0.4vw;
+  background-image: url(./IconsSecond/Red-Phone.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.PhotoBodySecond {
+  width: 9vw;
+  height: 9vw;
+  border-radius: 50%;
+  background-image: url("./male.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 1vw;
+}
+
+.Circle {
+  width: 1vw;
+  height: 1vw;
+  background-color: gray;
+  margin-right: 1vw;
+  border-radius: 50%;
+}
+
+.CircleX {
+  width: 1vw;
+  height: 1vw;
+  background-color: #a01e1e;
+  margin-right: 1vw;
+  border-radius: 50%;
+}

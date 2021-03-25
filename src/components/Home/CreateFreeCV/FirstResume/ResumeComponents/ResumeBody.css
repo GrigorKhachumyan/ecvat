@@ -1,0 +1,110 @@
+.NameProfContact1 {
+  font-size: 1vw;
+  height: 8.9vw;
+  padding-left: 1.4vw;
+}
+
+.NameProfContact2 {
+  width: 29.7vw;
+  display: flex;
+  font-size: 1vw;
+  height: 8.9vw;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f1f3;
+}
+
+.NameSurname1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.8vw;
+  text-align: left;
+}
+
+.NameSurname2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.8vw;
+  text-align: left;
+}
+
+.Objective {
+  padding-top: 0.4vw;
+  font-size: 0.7vw;
+  padding-left: 2vw;
+  padding-right: 0.5vw;
+  background-color: #313036;
+  color: #cdcbd0;
+}
+
+.Profession {
+  display: inline-block;
+  background-color: #313036;
+  font-size: 1vw;
+  height: 1.5vw;
+  color: #cdcbd0;
+  font-weight: 700;
+  padding-left: 0.4vw;
+  padding-right: 0.4vw;
+}
+
+.PhotoBody {
+  width: 10vw;
+  height: 8.9vw;
+  background-image: url("./male.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Contact {
+  margin-top: 0.7vw;
+  display: flex;
+  font-size: 0.5vw;
+}
+
+.Languages {
+  padding-top: 0.3vw;
+  font-weight: 500;
+  text-align: right;
+  font-size: 0.8vw;
+  padding-right: 1.5vw;
+  background-color: #d9d8dd;
+}
+
+.Skills {
+  padding-top: 0.3vw;
+  font-weight: 500;
+  text-align: right;
+  font-size: 0.8vw;
+  padding-right: 1.5vw;
+  background-color: #d9d8dd;
+}
+
+.Experiance {
+  padding-top: 0.4vw;
+  padding-bottom: 0.6vw;
+  font-weight: 500;
+  text-align: left;
+  font-size: 0.8vw;
+  padding-left: 1.5vw;
+  background-color: #f1f1f3;
+}
+
+.Education {
+  padding-top: 0.4vw;
+  padding-bottom: 0.6vw;
+  font-weight: 500;
+  text-align: left;
+  font-size: 0.8vw;
+  padding-left: 1.5vw;
+  background-color: #f1f1f3;
+}
+
+.Education2 {
+  font-weight: 500;
+  text-align: right;
+  font-size: 0.6vw;
+  padding-right: 1.5vw;
+  background-color: #d9d8dd;
+}

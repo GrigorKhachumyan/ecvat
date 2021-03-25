@@ -1,0 +1,135 @@
+.all-pages-top-bar {
+  background-color: #138FF9;
+  padding: 7px 5%;
+}
+
+.Tools {
+  width: 18%;
+  min-height: 100vh;
+  display: inline-block;
+  border: 1px solid #dedede;
+  padding: 2%;
+  background: white;
+  border-radius: 0 2px 2px 0;
+}
+
+.ToolsName {
+  font-size: 17px;
+  border-left: 2px solid #138ff9;
+  margin-bottom: 2vh;
+  padding-left: 12px;
+  cursor: pointer;
+  transition: .3s ease;
+  font-weight: 600;
+}
+
+.ToolsName:hover {
+  color: #138ff9;
+}
+
+.ccv-page {
+  /* display: flex; */
+}
+
+div {
+}
+
+.Input1 {
+  padding: 7px 11px;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.ToolsClick {
+  padding: 26px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+textarea.Input1 {
+  resize: none;
+  width: 100%;
+  height: 20vh;
+}
+
+.resume-side {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  margin-top: 35px;
+}
+
+.Resume {
+  min-height: 86vh;
+}
+
+.ResumeBody {
+  min-height: 86vh
+  ;
+}
+
+.Delete {
+  cursor: pointer;
+  opacity: 0.7;
+  transition: .3s ease;
+  position: absolute;
+    right: 6px;
+    top: -1px;
+}
+
+.Delete:hover {
+  opacity: 1;
+}
+
+.Tools .card {
+  margin-bottom: 18px;
+}
+
+.Tools .card-title {
+  font-weight: 600;
+  color: #2196F3;
+  margin:0;
+  max-width:100%;
+  text-overflow:ellipsis;
+  overflow:hidden;
+  
+  }
+
+.Tools .card-text {
+  margin: 0;
+  font-size: 12px;
+  color: #03A9F4;
+}
+
+
+section.pdf-toolbar {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.nav-button {
+  padding: 0 40px;
+}
+
+.Tools .range {
+  margin-bottom: 15px;
+}
+
+.level-item-cont {
+  width: 100%;
+  border: 1px solid;
+  height: 12px;
+  border-radius: 3px;
+  margin-top: 8px;
+}
+
+.level-item-cont .level-item {
+  height: 100%;
+  background: #2196F3;
+}
